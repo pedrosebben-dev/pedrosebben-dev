@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedrosebben-dev
 - 👀 I’m interested in Deselvolvimento Front-end
-- 🌱 I’m currently learning Português/Ingles
+- 🌱 I’m currently learning Ingles
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 How to reach me E-mail
 - 😄 Pronouns: ...
