@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pedrosebben-dev
-- 👀 I’m interested in Deselvolvimento Front-end
+- 👀 I’m interested in Developer Full-stack
 - 🌱 I’m currently learning Ingles
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 How to reach me E-mail
