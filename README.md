@@ -28,6 +28,7 @@
   <a href="https://www.devpedrosebben.com.br" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/pedrosebben-dev/pedrosebben-dev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pedrosebben-dev/pedrosebben-dev/blob/output/github-contribution-grid-snake-dark.svg)
 
-[!readme](https://github-readme-stats.vercel.app/api/pin/?username=pedrosebben-dev username&repo=pedrosebben-dev username&theme=react)](https://github.com/pedrosebben-dev/pedrosebben-dev)
+
+![snake gif](https://github.com/pedrosebben-dev/pedrosebben-dev/blob/output/github-contribution-grid-snake.svg)
