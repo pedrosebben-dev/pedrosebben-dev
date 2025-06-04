@@ -29,4 +29,4 @@
 </div>
 
 
-![snake gif](https://github.com/pedrosebben-dev/pedrosebben-dev/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/pedrosebben-dev/pedrosebben-dev/output/snake.svg" alt="Snake animation" />
