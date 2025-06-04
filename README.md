@@ -28,4 +28,5 @@
   <a href="https://www.devpedrosebben.com.br" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </div>
 
-![snake gif](https://raw.githubusercontent.com/pedrosebben-dev/pedrosebben-dev/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/pedrosebben-dev/pedrosebben-dev/blob/output/github-contribution-grid-snake.gif)
