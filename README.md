@@ -16,7 +16,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Pedro-Vue3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Pedro-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
-  <img align="right" alt="Gif" height="250" width="250"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGYzY2FyM2I3dGlodDB6azRzbmRsYjB0dmk5czFicGpvNWVkZmpsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOb8EeFziTQNE02WXs/giphy.gif">
+  <img align="right" alt="Gif" height="220" width="220"src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGYzY2FyM2I3dGlodDB6azRzbmRsYjB0dmk5czFicGpvNWVkZmpsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOb8EeFziTQNE02WXs/giphy.gif">
 </div>
 
 ##
