@@ -5,7 +5,8 @@
 - 🌱 Estudando Typescript
 <div>
   <a href="https://github.com/pedrosebben-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosebben-dev&show_icons=true&theme=radical">
+  <img height="180em" [src="https://github-readme-stats.vercel.app/api?username=pedrosebben-dev&show_icons=true&theme=radical"](https://github-readme-stats.vercel.app/api?username=pedrosebben-dev&show_icons=true&theme=radical&count_private=true
+)>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosebben-dev&layout=compact&langs_count=16&show_icons=true&theme=radical">
 </div>
 <div style="display: inline_block"><br>
