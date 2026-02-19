@@ -27,11 +27,11 @@
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrosebben-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosebben-dev&layout=compact&langs_count=8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+  <a href="https://github.com/pedrosebben-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedrosebben-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosebben-dev&layout=compact&langs_count=8&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
+  </a>
 </div>
-
----
 
 ### 🐍 Minhas Contribuições
 
