@@ -1,59 +1,128 @@
-# Olá, Eu sou o Pedro Sebben! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Especialista+em+Tecnologias+Modernas;Sempre+escrevendo+código+limpo" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00E599&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Vue+3+%E2%80%A2+Nuxt+3+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Do+Figma+ao+deploy%2C+produto+de+verdade;IA+no+fluxo+de+desenvolvimento" alt="Pedro Sebben" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/pedro-henrique-togni-sebben">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://nutri-pro-ochre.vercel.app">
+  <img src="https://img.shields.io/badge/NutriPro_(ao_vivo)-00E599?style=for-the-badge&logo=vercel&logoColor=black" alt="NutriPro"/>
+</a>
+<a href="mailto:devpedrosebben@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/pedro_sebben/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pedrosebben-dev&style=flat-square&color=00E599&label=Visitas+no+perfil" alt="profile views"/>
+
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+## Sobre mim
 
-- 👀 Atualmente trabalho como **Desenvolvedor Full Stack**.
-- 🌱 Focando meus estudos no ecossistema front-end avançado com **TypeScript**, **Vue.js**, **Pinia** e **I18n** para arquiteturas escaláveis.
-- ⚙️ Buscando sempre construir soluções modernas e eficientes.
+Sou **Desenvolvedor Full Stack** e gosto de resolver problemas reais — não só escrever código.
+
+- Trabalho com **Vue 3, Nuxt 3 e TypeScript** em plataformas web em produção
+- Transformo layout do **Figma em interface pixel-perfect** com Tailwind CSS
+- No back-end, construo integrações e APIs REST com **Node.js**
+- Uso **IA no fluxo de desenvolvimento** (Copilot, LLMs, engenharia de prompt) pra entregar mais rápido e com qualidade
+- **Embaixador da DIO no Brasil** por 2 anos consecutivos — reconhecimento por contribuição à comunidade dev
+- Cursando **Engenharia de Software** (UNIASSELVI, 2024–2028)
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,vue,nodejs,mongo,git,docker,gcp&perline=12" />
-  </a>
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,react,tailwind,html,css,vite,figma&perline=10" />
+
+**Back-end, dados e infra**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mongodb,docker,azure,git,github,vercel&perline=9" />
+
 </div>
 
 ---
 
-### 📊 Minhas Estatísticas
+## Projeto em destaque
 
 <div align="center">
-  <a href="https://github.com/pedrosebben-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrosebben-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=3600" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrosebben-dev&layout=compact&langs_count=8&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Top Languages" />
-  </a>
-</div>
 
-### 🐍 Minhas Contribuições
+### NutriPro — SaaS para nutricionistas
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pedrosebben-dev/pedrosebben-dev/output/snake.svg" alt="Snake animation" width="100%" />
+Plataforma completa que desenvolvi **sozinho, de ponta a ponta, para um cliente real** e está em produção.
+Autenticação, **geração de dietas por IA**, exportação de PDF com a marca do profissional, envio automático por e-mail e histórico de planos por paciente.
+
+`Vue 3` · `Nuxt` · `TypeScript` · `Node.js` · `Tailwind` · `IA`
+
+<a href="https://nutri-pro-ochre.vercel.app">
+  <img src="https://img.shields.io/badge/▶_Ver_ao_vivo-00E599?style=for-the-badge&logoColor=black" alt="Ver ao vivo"/>
+</a>
+<a href="https://github.com/pedrosebben-dev/nutri-pro">
+  <img src="https://img.shields.io/badge/Código-181717?style=for-the-badge&logo=github&logoColor=white" alt="Código"/>
+</a>
+
 </div>
 
 ---
 
-### 📫 Como me encontrar
+## Estatísticas
 
 <div align="center">
-  <a href="https://www.instagram.com/pedro_sebben/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://discord.com/channels/pedrosebben" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:dev.pedro_sebben@outlook.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.devpedrosebben.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Website">
-  </a>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrosebben-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&bg_color=1a1b27&title_color=00e599&icon_color=00e599" alt="GitHub Stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=pedrosebben-dev&theme=tokyonight&hide_border=true&background=1A1B27&ring=00E599&fire=00E599&currStreakLabel=00E599&locale=pt_BR" alt="Streak" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosebben-dev&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00e599" alt="Top Languages" />
+
+</div>
+
+### Atividade de commits
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrosebben-dev&bg_color=1a1b27&color=00e599&line=00e599&point=ffffff&area=true&hide_border=true&custom_title=Commits%20nos%20%C3%BAltimos%2031%20dias" alt="Activity Graph" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pedrosebben-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+
+</div>
+
+---
+
+## Contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrosebben-dev/pedrosebben-dev/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrosebben-dev/pedrosebben-dev/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/pedrosebben-dev/pedrosebben-dev/output/snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+**Aberto a oportunidades como Desenvolvedor Full Stack / Front-end — remoto.**
+
+<a href="https://www.linkedin.com/in/pedro-henrique-togni-sebben">
+  <img src="https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vamos conversar"/>
+</a>
+
 </div>
