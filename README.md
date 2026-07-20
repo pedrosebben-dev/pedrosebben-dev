@@ -80,23 +80,9 @@ Autenticação, **geração de dietas por IA**, exportação de PDF com a marca 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrosebben-dev&theme=tokyonight" alt="Resumo do perfil" width="98%" />
+<img src="https://streak-stats.demolab.com?user=pedrosebben-dev&theme=tokyonight&hide_border=true&background=1A1B27&ring=00E599&fire=00E599&currStreakLabel=00E599&locale=pt_BR" alt="Sequência de commits" width="70%" />
 
 <br/><br/>
-
-<img height="195" src="https://streak-stats.demolab.com?user=pedrosebben-dev&theme=tokyonight&hide_border=true&background=1A1B27&ring=00E599&fire=00E599&currStreakLabel=00E599&locale=pt_BR" alt="Sequência de commits" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedrosebben-dev&theme=tokyonight" alt="Linguagens por repositório" />
-
-<br/><br/>
-
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedrosebben-dev&theme=tokyonight" alt="Linguagens mais commitadas" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pedrosebben-dev&theme=tokyonight&utcOffset=-3" alt="Horários mais produtivos" />
-
-</div>
-
-### Atividade de commits
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrosebben-dev&bg_color=1a1b27&color=00e599&line=00e599&point=ffffff&area=true&hide_border=true&custom_title=Commits%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" width="100%" />
 
@@ -107,11 +93,9 @@ Autenticação, **geração de dietas por IA**, exportação de PDF com a marca 
 ## Contribuições
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedrosebben-dev/pedrosebben-dev/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedrosebben-dev/pedrosebben-dev/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/pedrosebben-dev/pedrosebben-dev/output/snake.svg" width="100%" />
-  </picture>
+
+<img src="https://raw.githubusercontent.com/pedrosebben-dev/pedrosebben-dev/output/snake.svg" alt="Snake animation" width="100%" />
+
 </div>
 
 ---
