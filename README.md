@@ -104,7 +104,7 @@ Autenticação, **geração de dietas por IA**, exportação de PDF com a marca 
 
 **Aberto a oportunidades como Desenvolvedor Full Stack / Front-end — remoto.**
 
-<a href="https://www.linkedin.com/in/pedro-henrique-togni-sebben">
+<a href="https://www.linkedin.com/in/pedrosebben/">
   <img src="https://img.shields.io/badge/Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Vamos conversar"/>
 </a>
 
